@@ -1,0 +1,18 @@
+{
+  "author": {
+    "name": "wangwei"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "axios": "^0.19.2"
+  },
+  "deprecated": false,
+  "description": "Is the node version of the SDK of OneNET Studio",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "onenetstudio-api-node-sdk",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
